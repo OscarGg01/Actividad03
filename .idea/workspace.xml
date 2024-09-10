@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76fbbcbb-3156-4285-9fdb-dde2e783c4b1" name="Changes" comment="Se mejoró el codigo">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Código base.py" beforeDir="false" afterPath="$PROJECT_DIR$/Procesador.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="76fbbcbb-3156-4285-9fdb-dde2e783c4b1" name="Changes" comment="Se refactorizó el codigo mejorando el nombre de las variables" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +41,7 @@
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "Equipo8__OscarGonzales__Descriptivos"
   }
 }]]></component>
   <component name="RunManager">
@@ -96,11 +92,31 @@
       <option name="project" value="LOCAL" />
       <updated>1726001118196</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Se refactorizó el codigo mejorando el nombre de las variables">
+      <option name="closed" value="true" />
+      <created>1726001567805</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726001567805</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Se mejoró el codigo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Se mejoró el codigo" />
+    <MESSAGE value="Se refactorizó el codigo mejorando el nombre de las variables" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se refactorizó el codigo mejorando el nombre de las variables" />
   </component>
 </project>
